@@ -1,2 +1,2 @@
 # QuickFindConsole
- Find an element by the ordered index in array usin quick sort concept
+ Find an element by the ordered index in array using quick sort concept
