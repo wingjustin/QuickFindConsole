@@ -1,2 +1,7 @@
 # QuickFindConsole
- Find an element by the ordered index in array using quick sort concept
+<h3>單次找出排序後某位置上的元素</h3>
+<p>
+如果把整個array用快速排序再找對應元素, 理想時間複雜度為O(nlogn)。
+<br>但這次只需把對應元素放在正確位置即可, 所以可以把快速排序的遞迴操作由左右兩邊改成單邊,只遞迴包括對應位置的一側
+<br>理想時間複雜度為O(n)。
+</p>
